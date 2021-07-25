@@ -1,0 +1,19 @@
+{
+  "name": "readmegen",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeBombay/readmegen.git"
+  },
+  "author": "mikebombay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeBombay/readmegen/issues"
+  },
+  "homepage": "https://github.com/MikeBombay/readmegen#readme"
+}
