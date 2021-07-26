@@ -2,7 +2,7 @@
 
 ## Licensing:
 
-[![license](https://img.shields.io/badge/license-Apache 2.0,GNU Public v3.0-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license--blue)](https://shields.io)
 
 ## Table of Contents 
   - [Description](#description)
@@ -13,19 +13,19 @@
   - [Additional Info](#additional-info)
 
 ## Description:
-   Michael@DESKTOP-0O4654S MINGW64 ~/desktop/projects/readmegen (develop)
+   This application generates a README file. 
 
 ## Installation:
-  
+  You could download the files.
 
 ## Usage:
-enter information from the command line
+Enter information as prompted from the command line after typeing node index.js. 
 
 ## Contributions:
-
+feel free to finish this assignment
 
 ## Tests:
-
+still testing it myself
 
 ## Created by:
 MikeBombay
